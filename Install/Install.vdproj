@@ -21,7 +21,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BD3A7274CFDD4C6BA6D83315104B5A0D"
+        "MsmKey" = "8:_AB7D0425D81849C59DA5DD34377D53BD"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -106,7 +106,7 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BD3A7274CFDD4C6BA6D83315104B5A0D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AB7D0425D81849C59DA5DD34377D53BD"
             {
             "SourcePath" = "8:..\\..\\..\\..\\Desktop\\files\\шаг\\windowsform\\5\\preview.ico"
             "TargetName" = "8:preview.ico"
@@ -225,7 +225,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Install"
         "ProductCode" = "8:{31308268-1DC8-4B9E-B993-A69F97420F0F}"
-        "PackageCode" = "8:{40975E15-8E22-4ED6-B78C-69C1F118274B}"
+        "PackageCode" = "8:{60CFCA2C-251D-4A40-9B7C-44005DDDA859}"
         "UpgradeCode" = "8:{A7D14351-4496-4D34-8B4F-5F936BE5E92A}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -242,7 +242,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_BD3A7274CFDD4C6BA6D83315104B5A0D"
+        "ARPPRODUCTICON" = "8:"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -356,7 +356,7 @@
             "Target" = "8:_7AD6E1C9D7274F7A98DCC7DB0C3F4720"
             "Folder" = "8:_7F16559A30A44E46BBA6BA0F5FACBFCC"
             "WorkingFolder" = "8:_DFEA7DEE1176419697265B153637CB15"
-            "Icon" = "8:_BD3A7274CFDD4C6BA6D83315104B5A0D"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_E519019041B649D18C7C863FE8DBCBFD"
@@ -370,7 +370,7 @@
             "Target" = "8:_7AD6E1C9D7274F7A98DCC7DB0C3F4720"
             "Folder" = "8:_AE694DC522184F04B2BBBF5990192301"
             "WorkingFolder" = "8:_DFEA7DEE1176419697265B153637CB15"
-            "Icon" = "8:_BD3A7274CFDD4C6BA6D83315104B5A0D"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
         }
